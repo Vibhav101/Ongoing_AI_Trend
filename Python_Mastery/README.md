@@ -8,16 +8,8 @@ This stage focuses on strengthening my Python skills and development workflow, p
 
 - Refresh Python fundamentals and advanced concepts
 - Reinforce best coding practices
-- Improve Git & GitHub workflow
 - Build confidence through practical coding
 - Prepare for Machine Learning
-
-## 📂 Contents
-
-- 📝 Notes
-- 📔 Learning Journal
-- 💻 Practice Exercises
-- 🚀 Projects
 
 ## 🛠 Projects
 
@@ -26,4 +18,4 @@ This stage focuses on strengthening my Python skills and development workflow, p
 
 ## ✅ Outcome
 
-By the end of this stage, I will have refreshed my Python knowledge, strengthened my development workflow, and be ready to begin Machine Learning.
+By the end of this stage, I will have advance Python knowledge.
